@@ -2,7 +2,7 @@
 """
 Created on Sun Mar 20 20:13:12 2022
 
-@author: Richard and Flora
+@author: Richard
 Title: Sentimental Analysis
 Summary: Gets sentimental analysis of words from JSON file YELP reviews 
 """
